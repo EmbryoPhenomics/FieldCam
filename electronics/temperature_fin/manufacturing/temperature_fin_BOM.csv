@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","1uF","","","","Capacitor_SMD:C_0402_1005Metric","~"
+"C3","1","0.1uF","","","","Capacitor_SMD:C_0402_1005Metric","~"
+"J1","1","Conn_01x04_Socket","","","","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","~"
+"U1","1","TMP117xxDRV","","","","Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm","https://www.ti.com/lit/ds/symlink/tmp117.pdf"
+"U2","1","TPS7A0228PDQNR","","","","jlcpcb:IC_TPS7A0228PDQNR",""

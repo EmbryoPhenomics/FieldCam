@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","Battery_Cell","","","","Battery:BatteryHolder_Keystone_3000_1x12mm","~"
+"J1","1","Conn_01x02_Socket","","","","Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical","~"
+"J2,J3,J4,J5,J6,J7","6","Conn_01x01_Pin","","","","jlcpcb:HARWIN_S7091-42R","~"
+"J8","1","Conn_01x02_Socket","","","","Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal","~"

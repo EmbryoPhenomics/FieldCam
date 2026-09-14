@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C38","1","100nF","","","","Capacitor_SMD:C_0402_1005Metric","~"
+"D1,D2","2","LED","","","","jlcpcb:LED-SMD_L3.5-W2.8-R-FD-WHITE","~"
+"H1,H2","2","MountingHole","","Excluded from BOM","","MountingHole:MountingHole_2.2mm_M2","~"
+"J1,J2","2","Conn_01x01_Socket","","","","TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm","~"
+"J3,J4","2","Conn_01x04_Socket","","","","Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical","~"
+"R32","1","10kR","","","","Resistor_SMD:R_0402_1005Metric","~"
+"U10","1","VEML6030","","","","jlcpcb:VISHAY_VEML6030_2X2X0.87",""

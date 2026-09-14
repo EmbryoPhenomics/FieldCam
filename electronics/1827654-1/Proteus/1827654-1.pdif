@@ -1,0 +1,340 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1827654-1"
+   (description "DC Jack Connectors, Board-to-Board, 7 Position, .079 in [2 mm] Centerline, Plug, 30 VDC, Right Angle, Printed Circuit Board, Power & Signal")
+   (family "CON")
+   (package "18276541")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1827654%7FD3%7Fpdf%7FEnglish%7FENG_CD_1827654_D3_c-1827654_drw.pdf%7F1827654-1")
+   (attribute "Geometry.Height" "4.3mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "1827654-1")
+   (attribute "Mouser Part Number" "571-1827654-1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1827654-1?qs=y6UIinpTn8hD7CbWsVjTIg%3D%3D")
+   (attribute "Arrow Part Number" "1827654-1")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/1827654-1/te-connectivity?utm_currency=USD&region=europe")
+   (gate
+    (symbol "1827654-1")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "1827654-1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "18276541"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.3 3.3)
+      (pt 18.3 3.3)
+      (pt 18.3 -2.3)
+      (pt -4.3 -2.3)
+      (pt -4.3 3.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.803 4.3)
+      (pt 19.803 4.3)
+      (pt 19.803 -9.1)
+      (pt -5.803 -9.1)
+      (pt -5.803 4.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.5 -2.3)
+      (pt -0.5 -5.5)
+      (arc (pt -0.500 -5.500) (pt -0.500 -6.000) (pt 0.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 0.5 -5.5)
+      (pt 0.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.5 -2.3)
+      (pt 1.5 -5.5)
+      (arc (pt 1.500 -5.500) (pt 1.500 -6.000) (pt 2.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 2.5 -5.5)
+      (pt 2.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 5.5 -2.3)
+      (pt 5.5 -5.5)
+      (arc (pt 5.500 -5.500) (pt 5.500 -6.000) (pt 6.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 6.5 -5.5)
+      (pt 6.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 7.5 -2.3)
+      (pt 7.5 -5.5)
+      (arc (pt 7.500 -5.500) (pt 7.500 -6.000) (pt 8.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 8.5 -5.5)
+      (pt 8.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 9.5 -2.3)
+      (pt 9.5 -5.5)
+      (arc (pt 9.500 -5.500) (pt 9.500 -6.000) (pt 10.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 10.5 -5.5)
+      (pt 10.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 11.5 -2.3)
+      (pt 11.5 -6.3)
+      (arc (pt 11.500 -6.300) (pt 11.500 -6.800) (pt 12.500 -5.800) (start 180.0) (sweep 180.0))
+      (pt 12.5 -6.3)
+      (pt 12.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 13.5 -2.3)
+      (pt 13.5 -6.3)
+      (arc (pt 13.500 -6.300) (pt 13.500 -6.800) (pt 14.500 -5.800) (start 180.0) (sweep 180.0))
+      (pt 14.5 -6.3)
+      (pt 14.5 -2.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 3.5 -2.3)
+      (pt 3.5 -7.6)
+      (arc (pt 3.500 -7.600) (pt 3.500 -8.100) (pt 4.500 -7.100) (start 180.0) (sweep 180.0))
+      (pt 4.5 -7.6)
+      (pt 4.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.3 1.9)
+      (pt -4.3 3.3)
+      (pt 18.3 3.3)
+      (pt 18.3 1.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 18.3 -1.7)
+      (pt 18.3 -2.3)
+      (pt -4.3 -2.3)
+      (pt -4.3 -1.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.5 -2.3)
+      (pt -0.5 -5.5)
+      (arc (pt -0.500 -5.500) (pt -0.500 -6.000) (pt 0.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 0.5 -5.5)
+      (pt 0.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.5 -2.3)
+      (pt 1.5 -5.5)
+      (arc (pt 1.500 -5.500) (pt 1.500 -6.000) (pt 2.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 2.5 -5.5)
+      (pt 2.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.5 -2.3)
+      (pt 3.5 -7.6)
+      (arc (pt 3.500 -7.600) (pt 3.500 -8.100) (pt 4.500 -7.100) (start 180.0) (sweep 180.0))
+      (pt 4.5 -7.6)
+      (pt 4.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 5.5 -2.3)
+      (pt 5.5 -5.5)
+      (arc (pt 5.500 -5.500) (pt 5.500 -6.000) (pt 6.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 6.5 -5.5)
+      (pt 6.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 7.5 -2.3)
+      (pt 7.5 -5.5)
+      (arc (pt 7.500 -5.500) (pt 7.500 -6.000) (pt 8.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 8.5 -5.5)
+      (pt 8.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 9.5 -2.3)
+      (pt 9.5 -5.5)
+      (arc (pt 9.500 -5.500) (pt 9.500 -6.000) (pt 10.500 -5.000) (start 180.0) (sweep 180.0))
+      (pt 10.5 -5.5)
+      (pt 10.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 11.5 -2.3)
+      (pt 11.5 -6.3)
+      (arc (pt 11.500 -6.300) (pt 11.500 -6.800) (pt 12.500 -5.800) (start 180.0) (sweep 180.0))
+      (pt 12.5 -6.3)
+      (pt 12.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 13.5 -2.3)
+      (pt 13.5 -6.3)
+      (arc (pt 13.500 -6.300) (pt 13.500 -6.800) (pt 14.500 -5.800) (start 180.0) (sweep 180.0))
+      (pt 14.5 -6.3)
+      (pt 14.5 -2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 3.9)
+      (arc (pt 0.000 3.900) (pt -0.050 3.800) (pt 0.050 3.900) (start 180.0) (sweep 90.0))
+      (pt 0 3.8)
+      (arc (pt 0.000 3.800) (pt -0.050 3.800) (pt 0.050 3.900) (start 180.0) (sweep -90.0))
+      (pt 0 3.9))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.000 0.000) (padstack 0))
+   (leg 3 (pt 6.000 0.000) (padstack 0))
+   (leg 4 (pt 8.000 0.000) (padstack 0))
+   (leg 5 (pt 10.000 0.000) (padstack 0))
+   (leg 6 (pt 12.000 0.000) (padstack 0))
+   (leg 7 (pt 14.000 0.000) (padstack 0))
+   (leg MH1 (pt -3.100 0.200) (padstack 8))
+   (leg MH2 (pt 17.100 0.200) (padstack 9))
+   (padstack 0
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (round 1.650))
+    (pad (layer INNER) (round 1.650))
+    (pad (layer BCOP) (round 1.650))
+   )
+   (padstack 1
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (square 1.650))
+    (pad (layer INNER) (round 1.650))
+    (pad (layer BCOP) (square 1.650))
+   )
+   (padstack 8
+    (hole 2.27)
+    (plated true)
+    (pad (layer TCOP) (round 3.405))
+    (pad (layer INNER) (round 3.405))
+    (pad (layer BCOP) (round 3.405))
+   )
+   (padstack 9
+    (hole 2.27)
+    (plated true)
+    (pad (layer TCOP) (round 3.405))
+    (pad (layer INNER) (round 3.405))
+    (pad (layer BCOP) (round 3.405))
+   )
+   (model "1827654-1.stp"
+    (euler 90 0 0)
+    (offset 7 -2.299999952316284 0.6499999761581421)
+   )
+  )
+ )
+)

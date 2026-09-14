@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,JLCPCB Part #,Notes,Correct?
+100nF,C38,Capacitor_SMD:C_0402_1005Metric,C1525,,
+LED,"D1,D2",jlcpcb:LED-SMD_L3.5-W2.8-R-FD-WHITE,C2830573,,
+10kR,R32,Resistor_SMD:R_0402_1005Metric,C25744,,
+VEML6030,U10,jlcpcb:VISHAY_VEML6030_2X2X0.87,C132182,,

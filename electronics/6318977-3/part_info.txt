@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=6318977-3
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=3.4
+Released=2025-05-11 11:34:12
+Downloaded=2025-07-14 11:38:51
+3D=Y

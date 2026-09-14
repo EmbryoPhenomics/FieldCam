@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '5787526_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "5787526-1" (!) = "", "57875261", "Other", "571-5787526-1", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5787526-1?qs=Y377PMEofyCxYvQc9q%2F8iQ%3D%3D", "", "", "Body Features: Primary Product Color Black | Configuration Features: Number of Positions 6 | Contact Features: Contact Base Material Phosphor Bronze | Contact Current Rating (Max) 4 AMP | PCB Contact Termination Area Plating Material Tin | Contact Mating Area Plating Material Gold | Contact Underplating Material Nickel | Housing Features: Centerline (Pitch) .08 INCH | Centerline (Pitch) 2 MM | Industry Standards: UL Flammability Rating UL 94V-0 | Mechanical Attachment: PCB Mount Retention Type Hold-Down Pos", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773458-1_2_PIECE_POWER_CONNECTORS_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5787526-1&DocFormat=pdf", "8.76 mm"
+END_PART
+
+END.

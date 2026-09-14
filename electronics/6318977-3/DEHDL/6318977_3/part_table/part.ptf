@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '6318977_3'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "6318977-3" (!) = "", "63189773", "Other", "", "", "", "", "Board-to-Board, 6 Position, 2.5 mm [.098 in] Centerline, Plug, 30 VDC, Right Angle, Printed Circuit Board, Power & Signal, DC Jack Connectors", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=6318977&DocType=Customer%20Drawing&DocLang=English&PartCntxt=6318977-3&DocFormat=pdf", "4.95 mm"
+END_PART
+
+END.

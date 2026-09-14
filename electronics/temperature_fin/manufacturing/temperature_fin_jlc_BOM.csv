@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,JLCPCB Part #,Notes,Correct?
+1uF,"C1,C2",Capacitor_SMD:C_0402_1005Metric,C52923,,Yes
+0.1uF,C3,Capacitor_SMD:C_0402_1005Metric,C307331,,Yes
+Conn_01x04_Socket,J1,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,C160404,,Yes
+TMP117xxDRV,U1,Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,C699536,,Yes
+TPS7A0228PDQNR,U2,jlcpcb:IC_TPS7A0228PDQNR,C5220175,,Yes

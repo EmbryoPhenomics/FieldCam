@@ -1,0 +1,18 @@
+.1612898-1 :1 ;Board to Board & Mezzanine Connectors BATTERY BLOCK CONN. PLUG ASSY
+"16128981"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9"
+*MXP 11
+*DFN 1612898-1
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (1612898-1)
+~!Mouser Part Number (571-1612898-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1612898-1?qs=y6UIinpTn8ihonOLq5Ne5A%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1612898%7FO%7Fpdf%7FJapanese%7FJPN_CD_1612898_O.pdf%7F1612898-1)
+~!Height (5.4mm)
+~!3D_Model (1612898-1)
+"1612898-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

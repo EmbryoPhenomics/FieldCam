@@ -1,0 +1,191 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1612898-1"
+   (description "Board to Board & Mezzanine Connectors BATTERY BLOCK CONN. PLUG ASSY")
+   (family "CON")
+   (package "16128981")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1612898%7FO%7Fpdf%7FJapanese%7FJPN_CD_1612898_O.pdf%7F1612898-1")
+   (attribute "Geometry.Height" "5.4mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "1612898-1")
+   (attribute "Mouser Part Number" "571-1612898-1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1612898-1?qs=y6UIinpTn8ihonOLq5Ne5A%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "1612898-1")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+   )
+  )
+  (symbol "1612898-1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "16128981"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.25 -2.2)
+      (pt 3.25 -2.2)
+      (pt 3.25 2.2)
+      (pt -3.25 2.2)
+      (pt -3.25 -2.2))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.325 3.7)
+      (pt 4.325 3.7)
+      (pt 4.325 -3.7)
+      (pt -4.325 -3.7)
+      (pt -4.325 3.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.8 2.2)
+      (pt -3.25 2.2)
+      (pt -3.25 -1.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.8 -2.2)
+      (pt 3.25 -2.2)
+      (pt 3.25 1.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 -3.3)
+      (arc (pt -2.000 -3.300) (pt -2.050 -3.300) (pt -1.950 -3.200) (start 180.0) (sweep -90.0))
+      (pt -2 -3.2)
+      (arc (pt -2.000 -3.200) (pt -2.050 -3.300) (pt -1.950 -3.200) (start 180.0) (sweep 90.0))
+      (pt -2 -3.3))))
+   (leg 1 (pt -2.000 -1.800) (padstack 0))
+   (leg 2 (pt -2.000 1.800) (padstack 0))
+   (leg 3 (pt 0.000 -1.800) (padstack 0))
+   (leg 4 (pt 0.000 1.800) (padstack 0))
+   (leg 5 (pt 2.000 -1.800) (padstack 0))
+   (leg 6 (pt 2.000 1.800) (padstack 0))
+   (leg 7 (pt -2.000 0.000) (padstack 7))
+   (leg 8 (pt 0.000 0.000) (padstack 8))
+   (leg 9 (pt 2.000 0.000) (padstack 9))
+   (leg MH1 (pt -2.950 -1.900) (padstack 10))
+   (leg MH2 (pt 2.950 1.900) (padstack 11))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.900 1.800 0 0 90.000))
+   )
+   (padstack 7
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 8
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 9
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 10
+    (hole 0.75)
+    (plated false)
+    (pad (layer TCOP) (round 0.375))
+    (pad (layer INNER) (round 0.375))
+    (pad (layer BCOP) (round 0.375))
+   )
+   (padstack 11
+    (hole 0.75)
+    (plated false)
+    (pad (layer TCOP) (round 0.375))
+    (pad (layer INNER) (round 0.375))
+    (pad (layer BCOP) (round 0.375))
+   )
+   (model "1612898-1.stp"
+    (euler 0 0 0)
+    (offset 0 0 2.6500000953674316)
+   )
+  )
+ )
+)

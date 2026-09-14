@@ -1,0 +1,18 @@
+.6318977-3 :1 ;Board-to-Board, 6 Position, 2.5 mm [.098 in] Centerline, Plug, 30 VDC, Right Angle, Printed Circuit Board, Power & Signal, DC Jack Connectors
+"63189773"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 7="7"
+*MXP 8
+*DFN 6318977-3
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (6318977-3)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=6318977&DocType=Customer%20Drawing&DocLang=English&PartCntxt=6318977-3&DocFormat=pdf)
+~!Height (4.95mm)
+~!3D_Model (6318977-3)
+"6318977-3"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 7.1!U 

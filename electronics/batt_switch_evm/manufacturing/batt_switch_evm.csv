@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J3,J7,J4,J5,J1,J6,J8,J9";"PinSocket_1x01_P2.54mm_Vertical";8;"Conn_01x01_Pin";;;
+2;"U3,U1";"TSSOP-16_4.4x5mm_P0.65mm";2;"INA260";;;
+3;"R3,R5,R4,R2,R1";"R_0603_1608Metric";5;"10kR";;;
+4;"C6";"C_0603_1608Metric";1;"1uF";;;
+5;"C4,C1,C9,C15,C12,C14,C5";"C_0603_1608Metric";7;"0.1uF";;;
+6;"C10,C8,C2";"C_1210_3225Metric";3;"100uF";;;
+7;"C7,C3,C11";"C_0805_2012Metric";3;"10uF";;;
+8;"C16";"C_0402_1005Metric";1;"1000pF";;;
+9;"J2";"PinHeader_1x03_P1.27mm_Vertical";1;"Conn_01x03_Socket";;;
+10;"U4";"WQFN-HR10_RYZ_TEX";1;"TPS22997RYZR";;;
+11;"C13";"C_0805_2012Metric";1;"1uF";;;
+12;"U2";"SOT-583-8";1;"TPS2117";;;

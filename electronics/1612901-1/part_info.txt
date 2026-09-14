@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=1612901-1
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=2.6
+Released=2022-04-23 02:24:26
+Downloaded=2025-07-14 12:17:05
+3D=Y

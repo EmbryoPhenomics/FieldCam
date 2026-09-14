@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,JLCPCB Part #,Notes,Correct?
+Battery_Cell,BT1,Battery:BatteryHolder_Keystone_3000_1x12mm,C238097,,Yes
+Conn_01x02_Socket,J1,Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical,C495537,,Yes
+Conn_01x01_Pin,"J2,J3,J4,J5,J6,J7",jlcpcb:HARWIN_S7091-42R,C21394879,,Yes
+Conn_01x02_Socket,J8,Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,C295747,,Yes

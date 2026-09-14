@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=1827654-1
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=2.5
+Released=2024-03-01 08:36:37
+Downloaded=2025-07-14 11:58:36
+3D=Y

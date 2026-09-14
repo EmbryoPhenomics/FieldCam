@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=5787526-1
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=2.4
+Released=2020-01-18 15:24:42
+Downloaded=2025-07-14 11:49:06
+3D=Y

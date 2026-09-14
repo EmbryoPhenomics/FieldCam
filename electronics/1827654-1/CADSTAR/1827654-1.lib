@@ -1,0 +1,19 @@
+.1827654-1 :1 ;DC Jack Connectors, Board-to-Board, 7 Position, .079 in [2 mm] Centerline, Plug, 30 VDC, Right Angle, Printed Circuit Board, Power & Signal
+"18276541"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=MH1 9=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="MH1" 9="MH2"
+*MXP 9
+*DFN 1827654-1
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (1827654-1)
+~!Mouser Part Number (571-1827654-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1827654-1?qs=y6UIinpTn8hD7CbWsVjTIg%3D%3D)
+~!Arrow Part Number (1827654-1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1827654-1/te-connectivity?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1827654%7FD3%7Fpdf%7FEnglish%7FENG_CD_1827654_D3_c-1827654_drw.pdf%7F1827654-1)
+~!Height (4.3mm)
+~!3D_Model (1827654-1)
+"1827654-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

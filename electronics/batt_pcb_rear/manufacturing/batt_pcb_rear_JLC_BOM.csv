@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,JLCPCB Part #,Notes,Correct?
+1uF,"C1,C5",Capacitor_SMD:C_0805_2012Metric,C77083,,
+0.1uF,"C2,C3,C6,C7",Capacitor_SMD:C_0603_1608Metric,C77055,,
+1000pF,"C4,C8",Capacitor_SMD:C_0402_1005Metric,C76947,,
+10kR,"R1,R2,R3,R4,R5",Resistor_SMD:R_0603_1608Metric,C99198,,
+TPS22997RYZR,"U1,U2",jlcpcb:WQFN-HR10_RYZ_TEX,C17286840,,
+Conn_01x04_Socket,J8,Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,C160390,,
