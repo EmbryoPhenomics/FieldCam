@@ -123,8 +123,9 @@ class Deployment:
 
         self.log2txt(self.camera_log, f'{video_path}, SUCCESS')
 
-        rpi2c.set_led_brightness(0)
-        led.off()
+        if not self.continuous:
+            rpi2c.set_led_brightness(0)
+            led.off()
 
         self.current += 1
         with open(self.config_file, 'w') as conf:

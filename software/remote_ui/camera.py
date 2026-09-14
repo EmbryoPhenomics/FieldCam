@@ -144,26 +144,11 @@ class Camera:
                         capture_success = False
                         break
 
-                if not capture_complete:
-                    # Monitor file size
-                    if os.path.exists(rpicam_path):
-                        new_size = os.path.getsize(rpicam_path)
-
-                        # if new_size == old_size:
-                        #     print("Capture appears stalled; restarting process...")
-                        #     capture_success = False
-
-                        old_size = new_size
-
-                    mem_ret = os.popen('cat /proc/meminfo | grep Mem').read().split('\n')
-                    cma_ret = os.popen('cat /proc/meminfo | grep Cma').read().split('\n')
-
-                    print(f'Capture monitoring: File size: {round(old_size / 1024**2, 2)} Mb, Capture success: {capture_success}, Capture complete: {capture_complete}, Capture duration: {round(time.time() - start_time, 1)}s, MEM USAGE: {mem_ret}, CMA USAGE: {cma_ret}')
-
                 if not capture_success or capture_complete:
                     break
 
-                time.sleep(2)
+                time.sleep(0.01)
+
             if not capture_complete:
                 process.kill()
                 time.sleep(5)
@@ -270,8 +255,9 @@ if __name__ == '__main__':
 
     def capture(path):
         picam2 = Camera()
-        picam2.video_capture(path, 30, camera_controls)
+        picam2.video_capture(path, 5, camera_controls)
         picam2.close()
 
-    capture(f'/home/pi/test.mp4')
+    for i in range(30):
+        capture(f'/home/pi/test.mp4')
 

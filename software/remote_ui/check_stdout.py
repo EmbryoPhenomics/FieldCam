@@ -1,7 +1,7 @@
 import glob
 from natsort import natsorted, ns
 
-folder = '/run/user/1000/gvfs/sftp:host=10.42.0.1,user=pi/home/pi/remote_ui'
+folder = './'
 
 files = natsorted(glob.glob(f'{folder}/*_stdout.txt'), alg=ns.IGNORECASE)
 
