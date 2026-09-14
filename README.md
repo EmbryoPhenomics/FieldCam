@@ -2,8 +2,7 @@
 
 ## A submersible field camera and sensor instrument
 
-![image](https://github.com/EmbryoPhenomics/FieldCam/blob/main/assets/field_img1.jpg)
-![image](https://github.com/EmbryoPhenomics/FieldCam/blob/main/assets/field_img2.jpg)
+![image](https://github.com/EmbryoPhenomics/FieldCam/blob/main/assets/collage.jpg)
 
 FieldCam is a versatile, waterproof imaging and sensing instrument, powered by consumer AA batteries and capable of long term timelapse imaging out in the field. Some of the key specifications of this instrument are as follows:
 
